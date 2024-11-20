@@ -12,6 +12,7 @@ header {
 header a {
     color: white;
     text-decoration: none;
+    align-items: center;
 }
 
 header button {
@@ -19,4 +20,9 @@ header button {
     color: gray;
     border-radius: 20px;
     width: 50px;
+    
+}
+
+header img {
+    background-position: left;
 }
